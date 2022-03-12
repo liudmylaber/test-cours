@@ -1,0 +1,100 @@
+/* .box
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    right: 0;
+    bottom: 0;
+    
+} */
+/* .box-yellow
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 3px solid black;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    z-index: -1;
+
+}
+.box
+{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border: 3px solid black;
+  
+   position: absolute;
+   right: -20px;
+   bottom: -20px;
+   z-index: -1;
+} 
+   
+.container{
+        display: flex;
+        justify-content: center;
+        height: 4000px;
+        padding-top: 300px;
+    }
+    
+    .box-green{
+        width: 200px;
+        height: 200px;
+        background-color: green;
+        position: sticky;
+        top:10px;
+        
+    }
+.box-blu{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    border: 3px solid black;
+    position: absolute;
+    bottom:100px;
+    left: 100px;
+} */
+.ph1{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 0;
+    z-index: -3;
+    
+
+}
+.ph2{
+    width: 500px;
+    height: 500px;
+    position:absolute;
+    left: 230px;
+    top:90px;
+    z-index: -1;
+}
+.ph3{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    right: 500px;
+    top:160px;
+    z-index: 1;
+}
+.a{
+    position: absolute;
+    top: 0;
+    right: 800px;
+    background-color: aquamarine;
+}
+.b{
+    position: absolute;
+    top: 90px;
+    right: 700px;
+    background-color: aquamarine;
+}
